@@ -26,7 +26,7 @@ E-mail:  [alagasuliattitilope@gmail.com](mailto:adeyeriopeoluwa05@gmail.com)
 
 Phone: +234(0)8073637911
 
-|[![GitHub Streak](https://streak-stats.demolab.com?user=lope1999&theme=monokai&mode=weekly)](https://git.io/streak-stats)|[![Suliat's  github stats](https://github-readme-stats.vercel.app/api?username=lope1999&theme=monokai)](https://github.com/lope1999/github-readme-stats)|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lope1999&theme=monokai"/>|
-
+|[![GitHub Streak](https://streak-stats.demolab.com?user=lope1999&theme=monokai&mode=weekly)](https://git.io/streak-stats)|[![Suliat's  github stats](https://github-readme-stats.vercel.app/api?username=lope1999&theme=monokai)](https://github.com/lope1999/github-readme-stats)|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lope1999&theme=monokai"/> |
+|----------------|-------------------------------|-----------------------------|
 
 
