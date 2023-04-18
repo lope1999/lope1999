@@ -6,10 +6,10 @@ My areas of interest are Web development and  Software Engineering
 Currently I'm developing a  [Weather App](https://suliat-weather-app.netlify.app/)  
 I'm fluent in these languages, paradigms, and Systems:  
 
-|         Languages                                |My Use                         |
-|----------------|-------------------------------|-----------------------------|
-|Python,Java,C,Nest [![My Skills](https://skillicons.dev/icons?i=python,java,c,nest)](https://skillicons.dev)        |`For Back-end and Web development`            |
-|, HTML,CSS,JS,React.js,Material UI, Bootstrap [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mui,bootstrap)](https://skillicons.dev)                  |`Front-end development, Structure of Web pages, Front End User Interface Styling`         |
+|                           Languages                                        |                                                      My Use                      |
+|----------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+|Python,Java,C,Nest [![My Skills](https://skillicons.dev/icons?i=python,java,c,nest)](https://skillicons.dev) |`For Back-end and Web development`            |
+|, HTML,CSS,JS,React.js,Material UI, Bootstrap [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mui,bootstrap)](https://skillicons.dev)                  |`Front-end development, Structure of Web pages, Front End User Interface Styling`    |
 |Git,Gitlab,Github  [![My Skills](https://skillicons.dev/icons?i=git,gitlab,github)](https://skillicons.dev)|`Version control`|
 |BASH Script, Ubuntu  [![My Skills](https://skillicons.dev/icons?i=bash,linux)](https://skillicons.dev)|`Scripting on Linux OS and automating Time consuming tasks, Functional open source OS`|
 |Docker, Nginx  [![My Skills](https://skillicons.dev/icons?i=docker,nginx)](https://skillicons.dev)|`Containerization and Deployment`|
