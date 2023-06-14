@@ -22,7 +22,7 @@ I'm fluent in these languages, paradigms, and Systems:
  [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/___lope?igshid=YmMyMTA2M2Y=)
  [My Portfolio ](https://suliat-portfolio.vercel.app)  
 
-E-mail:  [alagasuliattitilope@gmail.com](mailto:adeyeriopeoluwa05@gmail.com)  
+E-mail:  [alagasuliattitilope@gmail.com](mailto:alagasuliattitilope@gmail.com)  
 
 Phone: +234(0)8073637911
 
