@@ -1,9 +1,9 @@
 # Suliat Titilope Alaga
 
-### [](https://github.com/lope1999#im-an-enthusiastic-software-engineer-and-full-stack-web-developer)I am a Software Engineer with years of experience building web-based applications, and tools for finance and security. I hold a First Class (Honours) Bachelor’s Degree in Computer Science and a Distinction National Diploma’s Degree in Data Processing . Additionally,
+### [](https://github.com/lope1999#im-an-enthusiastic-software-engineer-and-full-stack-web-developer) I am a highly motivated software engineering professional with extensive experience in front-end development, utilizing ReactJS to deliver user-centric features. I am proficient in integrating frontend and backend systems through restful APIs, adhering to SOLID design principles, and maintaining clean code standards. Skilled in Agile methodologies, I have successfully led projects from initiation to delivery, providing robust solutions using Java (Spring Boot) and NestJS frameworks. Adept at training end-users and junior colleagues, I ensure smooth adoption of new technologies and processes. I am passionate about developing innovative, scalable, and efficient software solutions that meet customer needs and fuel business growth. I hold a First Class (Honours) Bachelor’s Degree in Computer Science and a Distinction National Diploma’s Degree in Data Processing . Additionally,
 
 My areas of interest are Web development and  Software Engineering   
-Currently I'm developing a  [Weather App](https://suliat-weather-app.netlify.app/)  
+Currently I'm developing a [Blog Post Viewer App: Blogger Blogger](https://blog-post-viewer.vercel.app/)  
 I'm fluent in these languages, paradigms, and Systems:  
 
 |                           Languages                                        |                                                      My Use                      |
