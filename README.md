@@ -20,7 +20,7 @@ I'm fluent in these languages, paradigms, and Systems:
  [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/AlagaSuliat)
  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/suliat-alaga-57b023149/)
  [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/___lope?igshid=YmMyMTA2M2Y=)
- [My Portfolio ](https://suliat-portfolio.vercel.app)  
+ [My Portfolio ](https://my-portfolio-suliat.vercel.app)  
 
 E-mail:  [alagasuliattitilope@gmail.com](mailto:alagasuliattitilope@gmail.com)  
 
